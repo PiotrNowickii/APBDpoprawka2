@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Exercise2": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\piotr\\Downloads\\dan.csv C:\\Users\\piotr\\OneDrive\\Pulpit\\pracadom\\cwiczenia2_mp-PiotrNowickii\\Exercise2\\Exercise2\\bin\\Debug\\net7.0 C:\\Users\\piotr\\OneDrive\\Pulpit\\pracadom\\cwiczenia2_mp-PiotrNowickii\\Exercise2\\Exercise2\\bin\\Debug\\net7.0\\logs.txt jrason"
+    }
+  }
+}
